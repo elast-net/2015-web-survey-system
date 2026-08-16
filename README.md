@@ -202,4 +202,4 @@ The project is presented as an example of **end-to-end system design, data proce
 * Administration and reporting
 * Practical engineering under compatibility and deployment constraints
 
-**Status:** Historical production project · source code not publicly available
+**Status:** Historical production project · source code not publicly available · a small representative excerpt from the original Python implementation is included for technical context
